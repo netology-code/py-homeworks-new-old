@@ -1,14 +1,16 @@
 # Домашнее задание к лекции 2.3 «Работа с разными форматами данных»
 
-## Задача №1
-Взять из [github-репозитория](https://github.com/netology-code/Python_course/tree/master/PY1_Lesson_2.3) все файлы с новостями в формате `json`: `newsfr.json`, `newsit.json`, `newsafr.json`, `newscy.json`.
+Взять из [github-репозитория](https://github.com/netology-code/py-homeworks-new/tree/master/2.3.formats.json.xml/files) все файлы с новостями newsafr.json и newsafr.xml
 
 Написать программу, которая будет выводить топ 10 самых часто встречающихся в новостях слов длиннее 6 символов для каждого файла.
 
 Не забываем про декомпозицию и организацию кода в функции. В решении домашнего задания вам могут помочь: `split()`, `sort` или `sorted`.
 
-## Задача №2. Дополнительная (не обязательная)
-Использовать файлы в формате xml вместо файлов в формате json.
+## Задача №1
+Написать программу для файла в формате json.
+
+## Задача №2.
+Написать программу для файла в формате xml.
 
 ## Задача №3
 К следующей лекции прочитать про [протокол http](https://ru.wikipedia.org/wiki/HTTP) и библиотеку [requests](https://khashtamov.com/ru/python-requests/)
