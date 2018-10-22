@@ -28,7 +28,7 @@
 - Вывести название самого тяжелого животного.
 
 ## Задача №4
-Для подготовки к следующей лекции прочитайте про [работу с файлами](https://pythonworld.ru/tipy-dannyx-v-python/fajly-rabota-s-fajlami.html).
+Для подготовки к следующей лекции прочитайте про [исключения](https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html).
 
 
 ---

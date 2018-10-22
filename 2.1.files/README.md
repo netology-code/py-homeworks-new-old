@@ -92,8 +92,7 @@ get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'
 **Обратите внимание, что ингредиенты могут повторяться**
 
 ## Задача №3
-Для подготовки к следующей лекции прочитайте про [работу с путями](https://pythonworld.ru/moduli/modul-os-path.html)
-и [вызов других программ](https://pythonworld.ru/moduli/modul-subprocess.html).
+Для подготовки к следующей лекции прочитайте про [менеджер контекста](https://pythonworld.ru/osnovy/with-as-menedzhery-konteksta.html).
 
 ---
 Домашнее задание сдается ссылкой на репозиторий [BitBucket](https://bitbucket.org/) или [GitHub](https://github.com/)
